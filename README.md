@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jessica 👋
 
-<!--
-**YSinfcat/YSinfcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in formalized mathematics, theorem proving, and local-first AI tools.
 
-Here are some ideas to get you started:
+我关注形式化数学、定理证明，以及注重隐私的本地 AI 工具。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Lean 4 and mathlib
+- Computational mathematics and verified reasoning
+- Local-first tools for learning and research
+- SwiftUI/macOS and Python
+
+## Currently
+
+Building and experimenting in private repositories. Selected work will be published when it is ready.
